@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Abyssal trench cross section">
+  <defs>
+    <linearGradient id="tr" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#00020a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#tr)"/>
+  <path d="M0 360 C180 330 230 520 400 540 C560 560 580 760 750 770 C920 780 950 620 1200 640 L1200 800 L0 800 Z" fill="#0f172a"/>
+  <path d="M0 420 C170 380 250 560 410 590 C550 620 620 790 770 800 C900 810 980 680 1200 700" stroke="#1e293b" stroke-width="8" fill="none"/>
+  <g transform="translate(740 410)">
+    <ellipse cx="70" cy="60" rx="70" ry="34" fill="#94a3b8"/>
+    <rect x="20" y="55" width="100" height="40" rx="20" fill="#e2e8f0"/>
+    <line x1="30" y1="95" x2="10" y2="125" stroke="#94a3b8" stroke-width="5"/>
+    <line x1="110" y1="95" x2="140" y2="128" stroke="#94a3b8" stroke-width="5"/>
+    <circle cx="48" cy="75" r="6" fill="#0f172a"/>
+    <circle cx="74" cy="75" r="6" fill="#0f172a"/>
+    <circle cx="100" cy="75" r="6" fill="#0f172a"/>
+  </g>
+  <g fill="#38bdf8" opacity="0.25">
+    <circle cx="220" cy="300" r="5"/>
+    <circle cx="500" cy="250" r="4"/>
+    <circle cx="990" cy="320" r="5"/>
+  </g>
+  <text x="56" y="108" fill="#93c5fd" font-family="Segoe UI, sans-serif" font-size="44" opacity="0.86">HADAL TRENCH • 6000m - 11000m</text>
+</svg>

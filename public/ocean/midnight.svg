@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Bioluminescent jellyfish in midnight zone">
+  <defs>
+    <linearGradient id="mn" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="45%" r="55%">
+      <stop offset="0%" stop-color="#67e8f9" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#67e8f9" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#mn)"/>
+  <circle cx="600" cy="360" r="250" fill="url(#glow)"/>
+  <g transform="translate(430 250)">
+    <ellipse cx="170" cy="120" rx="170" ry="120" fill="#22d3ee" opacity="0.84"/>
+    <ellipse cx="170" cy="130" rx="130" ry="72" fill="#cffafe" opacity="0.75"/>
+    <path d="M30 210 C40 330 20 400 55 520" stroke="#67e8f9" stroke-width="7" fill="none"/>
+    <path d="M95 220 C120 320 120 420 155 540" stroke="#67e8f9" stroke-width="7" fill="none"/>
+    <path d="M160 225 C175 340 190 420 235 560" stroke="#67e8f9" stroke-width="7" fill="none"/>
+    <path d="M225 220 C235 300 260 420 290 515" stroke="#67e8f9" stroke-width="7" fill="none"/>
+  </g>
+  <g fill="#67e8f9" opacity="0.8">
+    <circle cx="160" cy="610" r="3"/>
+    <circle cx="320" cy="120" r="3"/>
+    <circle cx="900" cy="590" r="4"/>
+    <circle cx="1030" cy="200" r="3"/>
+  </g>
+  <text x="56" y="730" fill="#a5f3fc" font-family="Segoe UI, sans-serif" font-size="46" opacity="0.85">MIDNIGHT ZONE • 1000m - 4000m</text>
+</svg>

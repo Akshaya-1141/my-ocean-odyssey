@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Twilight zone fish silhouettes">
+  <defs>
+    <linearGradient id="tw" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1d4ed8"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#tw)"/>
+  <g fill="#bfdbfe" opacity="0.82">
+    <ellipse cx="330" cy="300" rx="120" ry="52"/>
+    <polygon points="420,300 510,250 510,350"/>
+    <circle cx="280" cy="292" r="8" fill="#0f172a"/>
+  </g>
+  <g fill="#7dd3fc" opacity="0.62" transform="translate(390 130) scale(0.8)">
+    <ellipse cx="330" cy="300" rx="120" ry="52"/>
+    <polygon points="420,300 510,250 510,350"/>
+  </g>
+  <g fill="#60a5fa" opacity="0.48" transform="translate(550 270) scale(1.1)">
+    <ellipse cx="330" cy="300" rx="120" ry="52"/>
+    <polygon points="420,300 510,250 510,350"/>
+  </g>
+  <g stroke="#bae6fd" stroke-width="3" opacity="0.28">
+    <path d="M90 90 C330 210 730 10 1110 230"/>
+    <path d="M50 520 C260 400 640 620 1160 480"/>
+  </g>
+  <text x="56" y="730" fill="#dbeafe" font-family="Segoe UI, sans-serif" font-size="46" opacity="0.88">TWILIGHT ZONE • 200m - 1000m</text>
+</svg>
