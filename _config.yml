@@ -4,3 +4,4 @@ plugins:
 
 title: My Ocean Odyssey
 description: A journey through the deep blue.
+sass: { style: :compressed }
