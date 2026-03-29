@@ -1,4 +1,6 @@
-theme: jekyll-theme-primer
+remote_theme: pages-themes/primer@v0.6.0
+plugins:
+  - jekyll-remote-theme
+
 title: My Ocean Odyssey
-baseurl: "/my-ocean-odyssey"
-url: "https://akshaya-1141.github.io"
+description: A journey through the deep blue.
